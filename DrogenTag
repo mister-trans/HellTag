@@ -11,12 +11,12 @@ def register(cb):
 
 
 class TagallMod(loader.Module):
-    """Tag Module for Drogen Mafia"""
-    strings = {'name': 'DrogenTag'}
+    """Tag Module for ❤️‍🔥ᴅʏɴᴀsᴛʏ ᴏꜰ ʜᴇʟʟ⚔"""
+    strings = {'name': '❤️‍🔥HellTag⚔'}
 
     
     async def тcmd(self, event):
-        """Тэг-модуль участников Drogen Mafia"""
+        """Тэг-модуль участников чата ❤️‍🔥ᴅʏɴᴀsᴛʏ ᴏꜰ ʜᴇʟʟ⚔"""
         global text
         try:
             mentions = ""
